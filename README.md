@@ -1,4 +1,4 @@
-# Fullstack Skills Showcase – Hola Juniors Challenge
+# Fullstack Skills Showcase 
 The purpose of this project is to highlight my full-stack development skills through a modern, scalable web application—engineered with clean architecture and designed to inspire confidence in both performance and creativity.
 
 ## 📌 Project Objective
